@@ -40,6 +40,11 @@ body{
   background: 20px;
   vertical-align:middle;
 }
+.logos{
+  width: 60px;
+  height: 25px;
+  vertical-align:middle;
+}
 
 #post{
   background: white;
